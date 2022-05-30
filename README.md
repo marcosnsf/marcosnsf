@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Marcos Natan👨‍💻🖥
 
 - 🔭 Atualmente trabalhando como FullStack
-- 🌱 Estudando atualmente JavaScript | PHP/Larave
+- 🌱 Estudando atualmente JavaScript | PHP/Laravel
 - 😄 Pronomes: Ele/dele
 
 <div align="center">
